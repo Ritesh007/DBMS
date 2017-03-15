@@ -1,0 +1,2 @@
+admin
+register theatres

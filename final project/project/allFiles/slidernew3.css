@@ -1,0 +1,31 @@
+#slider_container {
+	float: left;
+	margin:0px;
+	padding:0px;
+	width: 440px;
+	background: "black";
+	height:270px;
+}
+#SliderName {
+	width: 440px;
+	height: 245px;
+	margin: 0px;
+}
+#SliderNameNavigation {
+	margin-top:0px;
+	padding:0px;
+	text-align: center;
+	background: #fff;
+}
+#SliderNameNavigation a:link, #SliderNameNavigation a:active, #SliderNameNavigation a:visited, #SliderNameNavigation a:hover {
+	margin: 0 px;
+	background: url(../images/nav.jpg) no-repeat center center;
+	font-size: 0px;
+	line-height: 0px;
+	padding:0px;
+	text-decoration: none;
+}
+#SliderNameNavigation a.active:link, #SliderNameNavigation a.active:active, #SliderNameNavigation a.active:visited, #SliderNameNavigation a.active:hover {
+	background: url(../images/nav_active3.jpg) no-repeat center center;
+}
+
